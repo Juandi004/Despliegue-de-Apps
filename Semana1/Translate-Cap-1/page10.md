@@ -8,7 +8,7 @@
 
 ### Figura 1-6. You Type It... posted message
 
-<img src='i1.png' width=100px height= 200px>
+<img src='i1.png' width=500px height= 300px style='justify-content: center'>
 
 ---
 
