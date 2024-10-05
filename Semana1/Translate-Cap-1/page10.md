@@ -9,7 +9,7 @@ a esperar la entrada de Alice.
 
 
 
-<img src='i1.png' width=500px height= 300px style='justify-content: center'>
+<img src='i1.png' width=1000px height= 300px style='justify-content: center'>
 
 ### Figura 1-6. You Type It... posted message
 
