@@ -9,10 +9,11 @@ a esperar la respuesta de Alice.
 
 
 
-<img src='i1.png' width=1000px height= 300px style='justify-content: center'>
+<img src='i1.png' width=1000px height= 300px>
 
-### Figura 1-6. You Type It... posted message
+### Figura 1-6. Lo escribes... mensaje publicado
 
+---
 
 Estoy seguro de que te has encontrado con redireccionamientos HTTP antes, pero HTTP está lleno de pequeñas características como esta, y algunas pueden ser nuevas para ti. Hay muchas maneras en las que el servidor puede decirle al cliente que maneje una respuesta de manera diferente, y maneras para que el cliente actúe según condiciones o características extras en su solicitud. Un gran componente del diseño de API es el uso adecuado de estas características.
 
