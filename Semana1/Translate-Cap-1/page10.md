@@ -11,7 +11,7 @@ a esperar la respuesta de Alice.
 
 <img src='i1.png' width=1000px height= 300px>
 
-### Figura 1-6. Lo escribes... mensaje publicado
+### *Figura 1-6. Lo escribes... mensaje publicado*
 
 ---
 
