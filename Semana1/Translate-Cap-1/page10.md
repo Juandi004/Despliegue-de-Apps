@@ -17,7 +17,7 @@ a esperar la respuesta de Alice.
 
 Estoy seguro de que te has encontrado con redireccionamientos HTTP antes, pero HTTP está lleno de pequeñas características como esta, y algunas pueden ser nuevas para ti. Hay muchas maneras en las que el servidor puede decirle al cliente que maneje una respuesta de manera diferente, y maneras para que el cliente actúe según condiciones o características extras en su solicitud. Un gran componente del diseño de API es el uso adecuado de estas características.
 
-El Capítulo 11 cubre las características de HTTP que son más importantes para trabajar con APIs, y los Apéndices A y B proporcionan información complementaria sobre este tema.
+<span style="color:red">El Capítulo 11 </span> cubre las características de HTTP que son más importantes para trabajar con APIs, y los <span style="color:red">Apéndices A</span> y <span style="color:red">Apéndices B</span> proporcionan información complementaria sobre este tema.
 
 ---
 
@@ -27,4 +27,4 @@ Al observar la representación gráfica, Alice ve que su mensaje ("Test") es aho
 
 ### Estado de la Aplicación
 
-La Figura 1-7 es un diagrama de estado que muestra toda la aventura de Alice desde la perspectiva de su navegador web.
+<span style="color:red">La Figura 1-7</span> es un diagrama de estado que muestra toda la aventura de Alice desde la perspectiva de su navegador web.
