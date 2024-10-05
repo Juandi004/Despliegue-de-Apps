@@ -5,7 +5,7 @@
 ```
 
 El navegador de Alice muestra este documento gráficamente (Figura 1-6) y, finalmente, regresa
-a esperar la entrada de Alice.
+a esperar la respuesta de Alice.
 
 
 
